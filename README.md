@@ -1,4 +1,4 @@
-# 🧠 Code-Orator
+# 💻 Code-Orator
 
 **Code-Orator** is a local-first tool that helps developers quickly understand unfamiliar codebases. It parses a repository, summarizes each file using a local LLM (via Ollama), builds a file-level dependency graph, and supports interactive Q&A to answer questions like:
 
