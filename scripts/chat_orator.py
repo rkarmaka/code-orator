@@ -10,7 +10,7 @@ if __name__ == "__main__":
     #     sys.exit(1)
 
     # json_path = sys.argv[1]
-    json_path = "/mnt/data/code-orator/output/pymmcore-plus_summary.json"
+    json_path = "/mnt/data/code-orator/output/muse-mind_summary.json"
     question = "Which method to use to snap an image using thie repo?"
     
     answer = ask_repo_question(json_path, question)

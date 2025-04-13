@@ -9,7 +9,7 @@ import json
 
 if __name__ == "__main__":
     # repo = sys.argv[1]
-    repo = "/mnt/data/code-orator/examples/pymmcore-plus"
+    repo = "/mnt/data/code-orator/examples/muse-mind"
     repo_name = repo.split("/")[-1]
     result = analyze_and_summarize_repo(repo)
 
